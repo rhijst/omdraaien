@@ -1,6 +1,6 @@
 # omdraaien
 
-Een flutter applicatie gemaakt om met bluetooth te kunnen verbinden met een Arduino.
+Een flutter applicatie gemaakt om met bluetooth te kunnen verbinden met een Arduino. 
 
 ## Getting Started
 
